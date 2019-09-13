@@ -1,6 +1,10 @@
 # 2019-soa-pa-jupyter-notebooks
 ### Supporting materials for presentation on Jupyter Notebooks given at the 2019 SOA Predictive Analytics Symposium
 
+The main notebook that is walked through for the presentation is **jupyter_notebook_tutorial.ipynb**
+
+In order to replicate the tutorial, follow the links below to install and run the Jupyter Notebook app. Ideally, the same environment (described by enivronment.yml) should be replicated, see below as well. Then jupyter_notebook_tutorial.ipynb can be opened and rerun. The mock data set is found in the data folder. 
+
 [Try Jupyter Prior to Installing](https://jupyter.org/try)
 
 Jupyter notebook installation instructions: [https://jupyter.org/install](https://jupyter.org/install)
